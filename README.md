@@ -5,7 +5,7 @@ This is fork is maintained for the purpose of publishing `@ethersage/react-scrip
 
 - Work shoud be merged to the `ethersage` branch
 - Changes should not be made to any package other that `react-scripts`.
-- New versions of `@facebookincubator/create-react-app` upstream will be merged into `ethersage` regularly. The first ethersage release off of a given upstream semver version will have the same version will use a pre-release version of the upstream, such as `@ethersage/react-scripts@1.0.17-ethersage.1`.
+- New versions of `@facebookincubator/create-react-app` upstream will be merged into `ethersage` regularly. The first ethersage release off of a given upstream semver version will have the same version. Thereafter, changes to an upstream version will use a pre-release version of the upstream, such as `@ethersage/react-scripts@1.0.17-ethersage.1`.
 
 Create React apps with no build configuration.
 
